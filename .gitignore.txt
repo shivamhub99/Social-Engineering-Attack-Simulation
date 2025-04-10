@@ -1,0 +1,12 @@
+# Ignore build files and compiled classes
+/build/
+*.class
+
+# IDE-specific folders
+/.settings/
+.project
+.classpath
+
+# Logs and system files
+*.log
+.DS_Store
